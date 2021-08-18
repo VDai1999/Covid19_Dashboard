@@ -5,6 +5,9 @@
 ### Description
 This dashboard allows users to view the overall summary statistics of COVID-19 in the U.S. This app also lets users interact with the app to see trends by region and by state.
 
+## App:
+[COVID-19 Dashboard](https://vandaidong99.shinyapps.io/RShinyProject/)
+
 ## Installation
 
 This project requires **R version 4.0.3** with **R Studio Version 1.3.1093** installed. Also, it requires having an account on [shinyapps.io](https://www.shinyapps.io/).
