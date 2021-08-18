@@ -5,7 +5,7 @@ This dashboard allows users to view the overall summary statistics of COVID-19 i
 
 ## Installation
 
-This project requires **R version 4.0.3** with **R Studio Version 1.3.1093** installed. Also, it also requires having an account on [shinyapps.io](https://www.shinyapps.io/).
+This project requires **R version 4.0.3** with **R Studio Version 1.3.1093** installed. Also, it requires having an account on [shinyapps.io](https://www.shinyapps.io/).
 
 ### R
 [Install R](https://www.r-project.org/)
