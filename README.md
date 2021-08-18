@@ -1,3 +1,5 @@
+![Logo](https://cdnuploads.aa.com.tr/uploads/Contents/2020/03/31/thumbs_b_c_f0c9e70408e03dcbd2c231d82228c08b.jpg?v=210121)
+
 # Covid19 R-Shiny Dashboard
 
 ### Description
