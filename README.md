@@ -1,4 +1,4 @@
-# Covid19 RShinyDashboard
+# Covid19 R-Shiny Dashboard
 
 ### Description
 This dashboard allows users to view the overall summary statistics of COVID-19 in the U.S. This app also let users to interact with the app to see trend by region and by state.
