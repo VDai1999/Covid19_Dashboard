@@ -1,5 +1,9 @@
 import streamlit as st
+import data_processing
 import page1, page2
+
+# Process data
+data_processing.main()
 
 # Layout for the app
 st.set_page_config(page_title="Covid-19 Dashboard", page_icon=":us:", layout="wide")
